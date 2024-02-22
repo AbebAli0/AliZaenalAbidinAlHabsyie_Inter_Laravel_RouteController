@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    First view in laravel
+    First view in laravel <br>
     Perkenalkan nama saya Ali Zaenal Abidin
 </body>
 </html>

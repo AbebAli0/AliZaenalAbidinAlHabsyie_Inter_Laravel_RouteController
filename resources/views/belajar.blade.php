@@ -6,6 +6,6 @@
     <title>ini view pertama saya bang</title>
 </head>
 <body>
-    Belajar Controller laravel sulit
+    Belajar Controller laravel Mudah
 </body>
 </html>
